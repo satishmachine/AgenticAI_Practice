@@ -2,3 +2,4 @@ langgraph
 langchain-groq
 python-dotenv
 langchain-openai
+langchain-chroma
